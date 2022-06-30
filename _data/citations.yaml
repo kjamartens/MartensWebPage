@@ -15,15 +15,15 @@
   - Michiel Kleerebezem
   - Johannes Hohlbein
   publisher: Nature Communications
-  date: '2020-06-02'
+  date: '2019-08-07'
   link: https://doi.org/gqfhk6
-  image: https://kjamartens.github.io/MartensWebPage/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
+  image: https://kjamartens.github.io/MartensWebPage/_data/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: a50951dd6dd291eb57a880216dd399b01b903a2c7fcea6d0c1b61ffe3aee4580
+  _cache: 2cf1928c6e594486f31512bd02a5d28d85a3233ed28a0f40fa29b43a958dc449
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
