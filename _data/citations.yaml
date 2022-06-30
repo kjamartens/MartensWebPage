@@ -1,21 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41467-019-11514-0
+  title: Visualisation of dCas9 target search in vivo using an open-microscopy framework
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Koen J. A. Martens
+  - Sam P. B. van Beljouw
+  - Simon van der Els
+  - Jochem N. A. Vink
+  - Sander Baas
+  - George A. Vogelaar
+  - Stan J. J. Brouns
+  - Peter van Baarlen
+  - Michiel Kleerebezem
+  - Johannes Hohlbein
+  publisher: Nature Communications
   date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  link: https://doi.org/gqfhk6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
+  _cache: 2f322ec0e119753af8cd70f66742fda30e38c64515fc0cde34bd536cea48442b
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
