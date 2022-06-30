@@ -17,13 +17,13 @@
   publisher: Nature Communications
   date: '2020-06-02'
   link: https://doi.org/gqfhk6
-  image: /PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
+  image: https://kjamartens.github.io/MartensWebPage/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: eb375a55bcb0791c552b4127a0fcdfeaf3fd53c2fd44c5fd494b8ecbdb67aa6e
+  _cache: a50951dd6dd291eb57a880216dd399b01b903a2c7fcea6d0c1b61ffe3aee4580
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
