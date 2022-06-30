@@ -1,5 +1,5 @@
 - id: doi:10.1038/s41467-019-11514-0
-  image: https://kjamartens.github.io/MartensWebPage/_data/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
+  image: https://raw.githubusercontent.com/kjamartens/MartensWebPage/main/_data/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/knowledge-graph-review/
