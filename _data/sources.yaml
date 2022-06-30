@@ -1,5 +1,5 @@
 - id: doi:10.1038/s41467-019-11514-0
-  image: /PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
+  image: https://kjamartens.github.io/MartensWebPage/PublicationImages/2019-08-07-dCas9-MCDDA-miCube.png
   date: 2020-6-2
   extra-links:
     - type: manubot
