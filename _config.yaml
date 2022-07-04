@@ -1,10 +1,10 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Koen J.A. Martens
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
-header: images/background.jpg
+header: images/Header.png
 footer: images/background.jpg
 baseurl: /MartensWebPage
 
