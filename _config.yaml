@@ -3,19 +3,19 @@
 # site properties and page defaults
 title: Koen J.A. Martens
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+logo: images/Logo.png
 header: images/Header.png
-footer: images/background.jpg
+footer: images/Footer.jpg
 baseurl: /MartensWebPage
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: koenjamartens@gmail.com
+  google-scholar: Koen J.A. Martens
+  github: kjamartens
+  twitter: kjaMartens
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
